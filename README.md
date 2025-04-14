@@ -1,4 +1,6 @@
 # Predykcja obrotów: porównanie modeli ML i własnego modelu liniowego w KNIME
+Niniejszy fragment raportu stanowi **samodzielnie wykonaną część projektu zespołowego**, dotyczącą trzeciego z trzech niezależnych zadań.
+
 Projekt analizy danych skoncentrowany na budowie oraz porównaniu modeli predykcyjnych z wykorzystaniem narzędzi uczenia maszynowego i modelowania liniowego. Analiza została wykonana w środowisku **KNIME**, na podstawie rzeczywistych danych dotyczących dziennego obrotu handlowego. Projekt obejmuje zarówno tworzenie modeli ML, jak i konstrukcję własnego modelu liniowego na podstawie rozpoznanych wzorców czasowych i rynkowych.
 
 ## Zakres projektu
